@@ -1,0 +1,6 @@
+﻿  ConsoleApplication7wadawd.cpp
+c:\users\lopet\source\repos\consoleapplication7wadawd\consoleapplication7wadawd\consoleapplication7wadawd.cpp(1281): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\lopet\source\repos\consoleapplication7wadawd\consoleapplication7wadawd\consoleapplication7wadawd.cpp(1818): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\lopet\source\repos\consoleapplication7wadawd\consoleapplication7wadawd\consoleapplication7wadawd.cpp(1178): warning C4715: 'statimoTikrinimasBOT': not all control paths return a value
+c:\users\lopet\source\repos\consoleapplication7wadawd\consoleapplication7wadawd\consoleapplication7wadawd.cpp(885): warning C4715: 'statimoTikrinimas': not all control paths return a value
+  ConsoleApplication7wadawd.vcxproj -> C:\Users\lopet\source\repos\ConsoleApplication7wadawd\Debug\ConsoleApplication7wadawd.exe
