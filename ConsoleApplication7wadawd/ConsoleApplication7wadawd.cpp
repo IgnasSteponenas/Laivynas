@@ -1,15 +1,10 @@
 #include "pch.h"
-#include "game.h"
 #include <iostream>
-#include <stdlib.h>
-#include <time.h>
-#include <vector>
-
-using namespace std;
+#include "Zaidimas.h"
 
 int main()
 {
-	game Zaid;
+	Zaidimas Zaid;
 
 	Zaid.pradzia();
 
@@ -19,6 +14,4 @@ int main()
 		Zaid.spausdinimas();
 		Zaid.saudimasZmogaus();
 	}
-
-	return 0;
 }
