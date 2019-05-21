@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  LaivuMusis.cpp
+c:\users\lopet\source\repos\laivumusis\laivynas\laivumusis\laivumusis\laivumusis.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Zaidimas.cpp
+c:\users\lopet\source\repos\laivumusis\laivynas\laivumusis\laivumusis\zaidimas.cpp(813): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\lopet\source\repos\laivumusis\laivynas\laivumusis\laivumusis\zaidimas.cpp(1252): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+c:\users\lopet\source\repos\laivumusis\laivynas\laivumusis\laivumusis\zaidimas.cpp(753): warning C4715: 'Zaidimas::statimoTikrinimas': not all control paths return a value
+  LaivuMusis.vcxproj -> C:\Users\lopet\source\repos\LaivuMusis\laivynas\LaivuMusis\Debug\LaivuMusis.exe

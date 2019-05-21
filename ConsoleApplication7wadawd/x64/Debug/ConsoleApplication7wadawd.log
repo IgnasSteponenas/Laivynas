@@ -1,7 +1,0 @@
-﻿  ConsoleApplication7wadawd.cpp
-  Zaidimas.cpp
-c:\users\lopet\source\repos\consoleapplication7wadawd\laivynas\consoleapplication7wadawd\zaidimas.cpp(814): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-c:\users\lopet\source\repos\consoleapplication7wadawd\laivynas\consoleapplication7wadawd\zaidimas.cpp(1255): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Generating Code...
-c:\users\lopet\source\repos\consoleapplication7wadawd\laivynas\consoleapplication7wadawd\zaidimas.cpp(756): warning C4715: 'Zaidimas::statimoTikrinimas': not all control paths return a value
-  ConsoleApplication7wadawd.vcxproj -> C:\Users\lopet\source\repos\ConsoleApplication7wadawd\laivynas\x64\Debug\ConsoleApplication7wadawd.exe
