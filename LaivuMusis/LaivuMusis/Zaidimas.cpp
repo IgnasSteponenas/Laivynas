@@ -8,7 +8,7 @@
 using namespace std;
 
 Zaidimas::Zaidimas() {}
-
+//pradiniai duomenys
 void Zaidimas::pradzia()
 {
 	for (int i = 0; i < ilgis; i++)
@@ -40,7 +40,7 @@ void Zaidimas::pradzia()
 	zaidejoPradiniaiLaivai();
 
 }
-
+//lentele
 void Zaidimas::spausdinimas()
 {
 	system("CLS");
@@ -87,7 +87,7 @@ void Zaidimas::spausdinimas()
 	}
 	cout << " Y" << endl;
 }
-
+//visu laivu lokacija
 void Zaidimas::surasymas(int x, int y, char kryptis, int vieta, vector<int>& kurIrasytiX, vector<int>& kurIrasytiY)
 {
 	if (vieta == 0)
@@ -247,7 +247,7 @@ void Zaidimas::surasymas(int x, int y, char kryptis, int vieta, vector<int>& kur
 		}
 	}
 }
-
+//laivu ivedimas
 void Zaidimas::zaidejoPradiniaiLaivai()
 {
 	int x;
@@ -1099,7 +1099,7 @@ void Zaidimas::BOTlaivuIvedimas()
 		}
 	}
 }
-
+//saudimo skiltis
 void Zaidimas::numustoLaivoTikrinimas(int x, int y, char irasomaLentele[][10], char tikrinamaLentele[][10], vector<int>& kurpaimtiX, vector<int>& kurpaimtiY)
 {
 	for (int i = 0; i < 20; i++)
@@ -1305,7 +1305,7 @@ void Zaidimas::saudimas(int x, int y, char irasomaLentele[][10], char tikrinamaL
 		}
 	}
 }
-
+//laimejimo skiltis
 bool Zaidimas::laimejimas(vector<int>& kurX, vector<int>& kurY, char testtikrinamaLentele[][10])
 {
 	int kiekNumustu = 0;
